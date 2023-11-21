@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('fon.jpg');
+    background-size: cover;
+    font-family: 'Times New Roman', serif;
+    font-size: 16px;
+}
+
+.content {
+    text-align: center;
+    padding: 50px;
+    color: #fff; /* Колір тексту на фоні фонового зображення */
+}
